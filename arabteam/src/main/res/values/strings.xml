@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera_preview">CameraPreview</string>
+    <string name="title_arab1">إستعمال الكاميرا لإلتقاط صور ومقاطع مرئية</string>
+    <string name="take_picture">أخد صورة</string>
+    <string name="take_video">مقطع مرئي </string>
+</resources>
